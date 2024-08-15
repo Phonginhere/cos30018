@@ -5,57 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68528f9f-6b4d-43e4-b715-835890692f64" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/P2StockPredictionPrice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/.idea/StockPredictionPrice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/csv-results/2021-05-31_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/csv-results/2024-08-14_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/csv-results/2024-08-15_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/data/AMZN_2021-05-31.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/data/AMZN_2024-08-14.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/data/AMZN_2024-08-15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2020-12-11_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/train/events.out.tfevents.1607697615.DESKTOP-JCAH48A.12800.1315.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2020-12-11_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/train/events.out.tfevents.1607697620.DESKTOP-JCAH48A.profile-empty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2020-12-11_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/train/plugins/profile/2020-12-11_15-40-20/local.trace" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2020-12-11_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/validation/events.out.tfevents.1607697622.DESKTOP-JCAH48A.12800.7403.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2024-08-14_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/train/events.out.tfevents.1723612448.Hais-MacBook-Pro-2.local.31952.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2024-08-14_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/train/events.out.tfevents.1723614304.Hais-MacBook-Pro-2.local.5428.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2024-08-14_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/validation/events.out.tfevents.1723612463.Hais-MacBook-Pro-2.local.31952.1.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2024-08-14_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/validation/events.out.tfevents.1723614320.Hais-MacBook-Pro-2.local.5428.1.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2024-08-15_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/train/events.out.tfevents.1723676156.Hais-MacBook-Pro-2.local.72205.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2024-08-15_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/validation/events.out.tfevents.1723676169.Hais-MacBook-Pro-2.local.72205.1.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/results/2021-05-31_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/results/2024-08-14_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/results/2024-08-15_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/stock_prediction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/stock_prediction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/v0.1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/v0.1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/v0.1/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/v0.1/stock_prediction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../week1/choco_intro/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../week1/choco_intro/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../week1/choco_intro/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../week1/choco_intro/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../week1/choco_intro/src/main/java/NQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/predictme.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/predictme.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/preproccess_binclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/preproccess_binclass.py" afterDir="false" />
@@ -69,7 +19,7 @@
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1216.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1216.TW_testing.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1216.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1216.TW_training.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1301.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1301.TW_testing.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1301.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1301.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1301.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1301.TW_training.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1303.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1303.TW_testing.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1303.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1303.TW_training.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1326.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1326.tw_testing.csv" afterDir="false" />
@@ -245,7 +195,7 @@
       <updated>1723681958236</updated>
       <workItem from="1723681959844" duration="6423000" />
       <workItem from="1723690294362" duration="429000" />
-      <workItem from="1723690993020" duration="9986000" />
+      <workItem from="1723690993020" duration="10721000" />
     </task>
     <servers />
   </component>
