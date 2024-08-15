@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68528f9f-6b4d-43e4-b715-835890692f64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/P2StockPredictionPrice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/.idea/StockPredictionPrice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/csv-results/2021-05-31_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/csv-results/2024-08-14_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/csv-results/2024-08-15_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/data/AMZN_2021-05-31.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/data/AMZN_2024-08-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/data/AMZN_2024-08-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2020-12-11_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/train/events.out.tfevents.1607697615.DESKTOP-JCAH48A.12800.1315.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2020-12-11_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/train/events.out.tfevents.1607697620.DESKTOP-JCAH48A.profile-empty" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2020-12-11_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/train/plugins/profile/2020-12-11_15-40-20/local.trace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2020-12-11_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/validation/events.out.tfevents.1607697622.DESKTOP-JCAH48A.12800.7403.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2024-08-14_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/train/events.out.tfevents.1723612448.Hais-MacBook-Pro-2.local.31952.0.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2024-08-14_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/train/events.out.tfevents.1723614304.Hais-MacBook-Pro-2.local.5428.0.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2024-08-14_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/validation/events.out.tfevents.1723612463.Hais-MacBook-Pro-2.local.31952.1.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2024-08-14_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/validation/events.out.tfevents.1723614320.Hais-MacBook-Pro-2.local.5428.1.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2024-08-15_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/train/events.out.tfevents.1723676156.Hais-MacBook-Pro-2.local.72205.0.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/logs/2024-08-15_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256/validation/events.out.tfevents.1723676169.Hais-MacBook-Pro-2.local.72205.1.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/results/2021-05-31_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/results/2024-08-14_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/results/2024-08-15_AMZN-sh-1-sc-1-sbd-0-huber_loss-adam-LSTM-seq-50-step-15-layers-2-units-256.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/stock_prediction.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/stock_prediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/P1/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/v0.1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/v0.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/v0.1/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/v0.1/stock_prediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week1/choco_intro/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week1/choco_intro/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week1/choco_intro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week1/choco_intro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week1/choco_intro/src/main/java/NQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/predictme.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/predictme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/preproccess_binclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/preproccess_binclass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/preprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/run_binary_preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/run_binary_preprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/runallfromlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/runallfromlist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1101.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1101.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1101.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1101.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1102.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1102.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1102.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1102.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1216.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1216.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1216.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1216.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1301.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1301.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1301.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1301.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1303.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1303.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1303.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1303.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1326.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1326.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1326.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1326.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1402.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1402.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1402.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/1402.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2002.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2002.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2002.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2002.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2105.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2105.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2105.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2105.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2207.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2207.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2207.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2207.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2301.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2301.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2301.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2301.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2303.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2303.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2303.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2303.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2308.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2308.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2308.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2308.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2311.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2311.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2311.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2311.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2317.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2317.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2317.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2317.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2324.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2324.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2324.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2324.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2325.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2325.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2325.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2325.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2330.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2330.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2330.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2330.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2354.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2354.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2354.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2354.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2357.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2357.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2357.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2357.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2382.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2382.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2382.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2382.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2395.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2395.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2395.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2395.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2408.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2408.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2408.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2408.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2409.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2409.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2409.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2409.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2412.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2412.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2412.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2412.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2454.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2454.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2454.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2454.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2474.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2474.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2474.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2474.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2628.HK_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2628.HK_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2628.HK_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2628.HK_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2633.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2633.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2633.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2633.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2801.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2801.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2801.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2801.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2880.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2880.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2880.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2880.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2881.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2881.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2881.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2881.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2882.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2882.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2882.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2882.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2883.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2883.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2883.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2883.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2884.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2884.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2884.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2884.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2885.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2885.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2885.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2885.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2886.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2886.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2886.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2886.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2887.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2887.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2887.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2887.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2890.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2890.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2890.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2890.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2891.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2891.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2891.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2891.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2892.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2892.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2892.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2892.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2912.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2912.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2912.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/2912.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3008.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3008.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3008.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3008.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3045.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3045.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3045.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3045.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3481.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3481.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3481.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3481.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/4904.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/4904.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/4904.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/4904.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/4938.tw_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/4938.tw_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/4938.tw_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/4938.tw_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/5880.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/5880.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/5880.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/5880.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/9904.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/9904.TW_testing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/9904.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/9904.TW_training.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kfkL1xG3ZxkfrEW2Pu41TfZWDe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.get_data.executor": "Debug",
+    "Python.runallfromlist.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="runallfromlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="P2StockPredictionPrice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/runallfromlist.py" />
+      <option name="PARAMETERS" value="tw50.csv 20 50" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runallfromlist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68528f9f-6b4d-43e4-b715-835890692f64" name="Changes" comment="" />
+      <created>1723681958236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723681958236</updated>
+      <workItem from="1723681959844" duration="6423000" />
+      <workItem from="1723690294362" duration="429000" />
+      <workItem from="1723690993020" duration="9986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/run_binary_preprocessing.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/run_binary_preprocessing.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/run_binary_preprocessing.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/P2StockPredictionPrice$runallfromlist.coverage" NAME="runallfromlist Coverage Results" MODIFIED="1723719277143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" />
+    <SUITE FILE_PATH="coverage/P2StockPredictionPrice$get_data.coverage" NAME="get_data Coverage Results" MODIFIED="1723718692261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" />
+  </component>
+</project>
