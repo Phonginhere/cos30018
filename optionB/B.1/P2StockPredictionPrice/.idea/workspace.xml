@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68528f9f-6b4d-43e4-b715-835890692f64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3711.TW_testing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3711.TW_training.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/nan_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/predictme.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/predictme.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/preproccess_binclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/preproccess_binclass.py" afterDir="false" />
@@ -110,6 +116,8 @@
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/5880.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/5880.TW_training.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/9904.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/9904.TW_testing.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/9904.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/9904.TW_training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/tw50.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/tw50.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StockPredictionPrice/B/1/v0.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/v0.1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +142,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.get_data.executor": "Debug",
-    "Python.runallfromlist.executor": "Debug",
+    "Python.preproccess_binclass.executor": "Debug",
+    "Python.runallfromlist.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -195,7 +204,7 @@
       <updated>1723681958236</updated>
       <workItem from="1723681959844" duration="6423000" />
       <workItem from="1723690294362" duration="429000" />
-      <workItem from="1723690993020" duration="10721000" />
+      <workItem from="1723690993020" duration="20269000" />
     </task>
     <servers />
   </component>
@@ -219,21 +228,6 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/run_binary_preprocessing.py</url>
-          <line>49</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/run_binary_preprocessing.py</url>
-          <line>65</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/run_binary_preprocessing.py</url>
-          <line>83</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py</url>
           <line>33</line>
           <option name="timeStamp" value="9" />
@@ -245,14 +239,30 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py</url>
           <line>81</line>
-          <option name="timeStamp" value="11" />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/preproccess_binclass.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/P2StockPredictionPrice$runallfromlist.coverage" NAME="runallfromlist Coverage Results" MODIFIED="1723719277143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" />
+    <SUITE FILE_PATH="coverage/P2StockPredictionPrice$runallfromlist.coverage" NAME="runallfromlist Coverage Results" MODIFIED="1723771255828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" />
     <SUITE FILE_PATH="coverage/P2StockPredictionPrice$get_data.coverage" NAME="get_data Coverage Results" MODIFIED="1723718692261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" />
+    <SUITE FILE_PATH="coverage/P2StockPredictionPrice$preproccess_binclass.coverage" NAME="preproccess_binclass Coverage Results" MODIFIED="1723768134685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" />
   </component>
 </project>

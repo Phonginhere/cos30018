@@ -11,7 +11,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout, LSTM # long short term memory layers
 
 # Step 2: Load Data
-company = '2330.TW' # specify a company
+company = '3711.TW' # specify a company
 
 start = dt.datetime(2010, 1, 1) # time point want to start
 end = dt.datetime(2020, 1, 1) # should not use until now
