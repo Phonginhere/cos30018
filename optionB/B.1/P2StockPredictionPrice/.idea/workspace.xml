@@ -9,9 +9,6 @@
       <change afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/3711.TW_training.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/nan_testing.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/nan_training.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/2/data_processing_1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/2/data_processing_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/get_data.py" afterDir="false" />
@@ -119,7 +116,6 @@
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/9904.TW_testing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/9904.TW_testing.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/9904.TW_training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/stockdatas/9904.TW_training.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/tw50.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/tw50.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StockPredictionPrice/B/1/v0.1/stock_prediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../StockPredictionPrice/B/1/v0.1/stock_prediction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,6 +205,7 @@
       <workItem from="1723690993020" duration="30362000" />
       <workItem from="1724225564547" duration="602000" />
       <workItem from="1724371273633" duration="604000" />
+      <workItem from="1726958445888" duration="13000" />
     </task>
     <servers />
   </component>

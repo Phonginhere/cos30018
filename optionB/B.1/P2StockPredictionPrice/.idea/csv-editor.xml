@@ -3,14 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/B/3/v0.2/dataset/AMZN_2020-01-01_2023-01-01.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/B/5/dataset/AMZN_2020-01-01_2023-01-01.csv">
+        <entry key="/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market/tw50.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
